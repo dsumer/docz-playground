@@ -1,0 +1,13 @@
+{
+  "name": "docz-playground",
+  "version": "1.0.0",
+  "repository": "git@github.com:dsumer/docz-playground.git",
+  "author": "Dominik Sumer <domi.sumer@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "docz": "^2.0.0-rc.40",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
